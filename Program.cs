@@ -21,6 +21,7 @@ namespace sunnyapp.web
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
-                });
+                    gjghk
+                });,
     }
 }
